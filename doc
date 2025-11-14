@@ -1,0 +1,8 @@
+## install listener
+
+> go get github.com/githubnemo/CompileDaemon
+> go install github.com/githubnemo/CompileDaemon
+> CompileDaemon -command="go-rest-api.exe"
+
+## this fuunuction runs before main function
+func init(){} 
